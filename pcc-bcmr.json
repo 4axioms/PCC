@@ -1,0 +1,33 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2024-11-05T07:14:02.198Z",
+  "registryIdentity": {
+    "name": "bcmr for People's Canada Coin",
+    "description": "self-published bcmr for People's Canada Coin"
+  },
+  "identities": {
+    "f6c957fd506bf5400b5e4eea9feaaed690f46fe733fee48e98525fc689ef642f": {
+      "2024-11-05T07:14:02.198Z": {
+        "name": "People's Canada Coin",
+        "description": "A fungible token made on the Bitcoin Cash network to promote the PPC(The People's Party of Canada) NOTE: PCC - PEOPLE'S CANADA COIN IS NOT OFFICIALLY ENDORSED OR AFFILIATED WITH THE CANADIAN POLITICAL PARTY CALLED THE \"PEOPLE'S PARTY OF CANADA\" IN ANY WAY, SHAPE, OR FORM.",
+        "token": {
+          "category": "f6c957fd506bf5400b5e4eea9feaaed690f46fe733fee48e98525fc689ef642f",
+          "symbol": "PCC",
+          "decimals": 3
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/4axioms/PCC/refs/heads/main/pcc-logo-100-favi.png",
+          "web": "https://github.com/4axioms/PCC",
+          "image": "https://raw.githubusercontent.com/4axioms/PCC/refs/heads/main/pcc-logo-100.png",
+          "blog": "https://www.peoplespartyofcanada.ca/",
+          "support": "https://linktr.ee/maximebernier"
+        }
+      }
+    }
+  }
+}
