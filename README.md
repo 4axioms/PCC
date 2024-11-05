@@ -16,8 +16,8 @@ visibility of the People's Party of Canada.
 
 Fundamentally, because money is involved with cryptocurrencies and tokens...people are naturally suspicious(once again, this is due to ignorance). With that being 
 said...I have learned from @VforXRP's "mistakes"—it's questionable whether he actually did anything wrong(I think that he did nothing wrong). The People's Canada 
-Coin will issue 21 trillion coins(tokens), thus ensuring that the token never gains any real monetary value beyond being worth mere fractions of a CAD penny. Also,
-the 21 trillion coins will be issued to me(the default behaviour when issuing fungible CashTokens), and I will subsequently distribute these PCC tokens to anybody 
+Coin will issue 21 quadrillion coins(tokens), thus ensuring that the token never gains any real monetary value beyond being worth mere fractions of a CAD penny. Also,
+the 21 quadrillion coins will be issued to me(the default behaviour when issuing fungible CashTokens), and I will subsequently distribute these PCC tokens to anybody 
 that has a CashTokens compatible Bitcoin Cash wallet.
 
 Canadians are encouraged to help their friends and family install CashTokens compatible Bitcoin Cash wallets, and to freely distribute PCC(People's Canada Coins). 
