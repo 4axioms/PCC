@@ -31,5 +31,5 @@ FULL DISCLOSURE:
   design, the "C" with a "₵" nested within its negative space is different and of my own design, and "P" itself has different dimensions/scale to the "P" in the official
   People's Party of Canada logo. 
 
-- I do hold Bitcoin Cash(BCH) coins, but it will quickly become apparent that I WILL MAKE NO MONEY OFF PCC(People's Canada Coins). In fact it costs me 
+- I do hold Bitcoin Cash(BCH) coins, but it will quickly become apparent that I WILL MAKE NO MONEY OFF PCC(People's Canada Coin). In fact it costs me 
 money, time, and effort in order to bring PCC into existence to inform you provincial philistines.
