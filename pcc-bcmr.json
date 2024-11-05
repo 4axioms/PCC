@@ -18,7 +18,7 @@
         "token": {
           "category": "f6c957fd506bf5400b5e4eea9feaaed690f46fe733fee48e98525fc689ef642f",
           "symbol": "PCC",
-          "decimals": 3
+          "decimals": 0
         },
         "uris": {
           "icon": "https://raw.githubusercontent.com/4axioms/PCC/refs/heads/main/pcc-logo-100-favi.png",
